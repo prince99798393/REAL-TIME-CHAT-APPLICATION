@@ -19,3 +19,4 @@ The application connects users to a WebSocket server, where all messages are bro
 This project emphasizes responsiveness and usability, ensuring that users can easily chat on any device, whether a desktop or a smartphone. The CSS styling enhances readability and adds a modern touch to the interface. Additionally, the WebSocket server ensures reliable message delivery, even in real-time scenarios with multiple participants. This chat application demonstrates the potential of WebSockets in developing efficient, live communication platforms.
 
 *OUTPUT*:
+![REAL](https://github.com/user-attachments/assets/bc6b30f1-1d41-4581-abf4-fec6abc0b460)
